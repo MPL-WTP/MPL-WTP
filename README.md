@@ -7,7 +7,7 @@ For a full description of the contents of this repository please see the technic
 Kelsey Jack, Kathryn McDermott, Anja Sautmann, Kenneth Chan, Lei Yue
 
 ## Recommended citation
-Chen, K., Jack, B.K, McDermott, K., Sautmann, A., Yue, L. (2022). WTP-MPL. https://github.com/MPL-WTP/MPL-WTP 
+Jack, B.K, McDermott, K., Sautmann, A., Chen, K., Yue, L. (2022). Data Collection and Analysis of Multiple Price Lists for Willingness to Pay Elicitation. https://github.com/MPL-WTP/MPL-WTP 
 
 
 ## Contents
