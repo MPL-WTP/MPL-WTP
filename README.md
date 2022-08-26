@@ -1,7 +1,7 @@
 # MPL-WTP
-This repository accompanies *Jack, McDermott, Sautmann* (2022) and contains user-written Stata commands for estimating willingness to pay (WTP) using a multiple price list (MPL) choice experiment as well as templates for collecting survey data using SurveyCTO and preparing the data for analysis. We also provide example input and output to recreate an MPL between cash and prepaid electricity described in *Jack, McDermott, Sautmann* (2022).  
+This repository accompanies *Jack, McDermott, Sautmann* (Forthcoming) and contains user-written Stata commands for estimating willingness to pay (WTP) using a multiple price list (MPL) choice experiment as well as templates for collecting survey data using SurveyCTO and preparing the data for analysis. We also provide example input and output to recreate an MPL between cash and prepaid electricity described in *Jack, McDermott, Sautmann* (Forthcoming).  
 
-For a full description of the contents of this repository please see the [technical appendix]()
+For a full description of the contents of this repository please see the technical appendix of *Jack, McDermott, Sautmann* (Forthcoming).  
 
 ## Contributors
 Kelsey Jack, Kathryn McDermott, Anja Sautmann, Kenneth Chan, Lei Yue
